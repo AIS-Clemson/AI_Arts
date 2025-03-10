@@ -4,4 +4,4 @@
 "Wars may rage, the world may change,
 yet the flame of freedom burns eternal."
 
-[Eternal Flame.jpg](./Eternal Flame.jpg)
+<img src="./Eternal Flame.jpg" width=100%>
